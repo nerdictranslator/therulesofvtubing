@@ -4,7 +4,7 @@
 
 Note: This document is loosely inspired by the Ferengi Rules of Acquisition. Adopting these rules as a form of religious doctrine is optional, and not recommended.
 
-# The Rules of VTubing - Revision 0.1
+# The Rules of VTubing - Revision 0.2
 
 1. Being unhinged is good for business.
 2. Being unkind is good for business until it's not.
@@ -30,12 +30,34 @@ Note: This document is loosely inspired by the Ferengi Rules of Acquisition. Ado
 19. Chat is not your friend.
 20. Chat is not your enemy.
 21. Be grateful for every single follower you have, but be ready to tell any single one of them to fuck off.
+22. Respect the Furries. They intentionally expose themselves to more crap than you can imagine, and they just keep going. Besides, you'll need an infosec person one day.
+23. If you don't have merch, make merch. If you do have merch, make more merch.
+24. Always post your going live links. People may not click them, but it reminds them you're alive.
+25. The size of a VTuber's audience doesn't matter until it does.
+26. Don't encourage parasocial behavior unless you're prepared for weird and unsettling behavior to follow.
+27. Hard work is a necessary part of being a VTuber.
+28. People will ignore the things you work hardest on, and your shitposts will blow up. Rule 27 still applies somehow.
+29. First and foremost, collab with people whose company you enjoy.
+30. Make sure they know you enjoy their company. No, seriously, tell them.
 
 ---
 
 These are the rules of VTubing. They are permanent and unchanging unless I update the official file in the GitHub repository, or someone submits a really good pull request. 
 
 That's right, you can contribute your own rules. If I like them, I'll add them to the list. You can also make your own list based on mine. Just note that if you use any of what I've written here, attribution is required by the license listed below (i.e. you have to give me credit for the original work). Also, your own list must be distributed under the same license.
+
+---
+
+## Credits
+
+**Author/Editor:** Nerdic / The Nerdic Translator
+[My website](https://nerdictranslator.com) |  [Twitch](https://twitch.tv/nerdictranslator) | [YouTube](https://www.youtube.com/@nerdictranslator) | [Bluesky](https://bsky.app/profile/nerdictranslator.com)
+
+**Contributor:** Kharne83
+[Twitch](https://www.twitch.tv/kharne83) | [Bluesky](https://bsky.app/profile/kharne83.bsky.social)
+
+**Contributor:** SafiScores
+[Bluesky](https://bsky.app/profile/safiscores.bsky.social)
 
 ---
 
