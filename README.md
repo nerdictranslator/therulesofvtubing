@@ -4,7 +4,7 @@
 
 Note: This document is loosely inspired by the Ferengi Rules of Acquisition. Adopting these rules as a form of religious doctrine is optional, and not recommended.
 
-# The Rules of VTubing - Revision 0.2
+# The Rules of VTubing - Revision 1.0
 
 1. Being unhinged is good for business.
 2. Being unkind is good for business until it's not.
@@ -39,6 +39,26 @@ Note: This document is loosely inspired by the Ferengi Rules of Acquisition. Ado
 28. People will ignore the things you work hardest on, and your shitposts will blow up. Rule 27 still applies somehow.
 29. First and foremost, collab with people whose company you enjoy.
 30. Make sure they know you enjoy their company. No, seriously, tell them.
+31. You don't have to stream to be a VTuber.
+32. You don't need to have any particular kind of model to be a VTuber.
+33. You don't need to make a specific kind of content to be a VTuber, though people will expect at least some of your work to come in video form.
+34. Protect the baby VTubers as best you can. You were young and dumb once upon a time.
+35. You can't insult older VTubers. Let me be clear: you can try, but you'll never think of anything we haven't said to ourselves in the mirror at some point.
+36. Jump on every opportunity you can, when you can. A certain amount of failure is good for you, and more to the point, it can be really funny to watch.
+37. When you're more established, encourage baby VTubers to jump on every opportunity they can, when they can. A certain amount of failure is good for them, and more to the point, it can be really funny to watch.
+38. Don't lie to yourself. Plenty of people will try to do that for you.
+39. Don't expect to make a lot of money from VTubing. Rich VTubers are the exception, not the rule.
+40. Your model is going to cost you a lot of money, or a lot of time, and sometimes both. Get used to it.
+41. Optimizing and expanding your VTubing/recording/streaming setup can actually be more fun than streaming and recording. This is a trap.
+42. Never be afraid to take breaks. Nah, there's no joke here, just do it.
+43. Some people will always demand more from you, no matter the cost to you. See rule 21 for instructions on how to deal with them.
+44. Never show the feet.
+45. Or do. Just understand that, even with digital feet, you can't go back.
+46. Everyone is going to tell you to make a lore video, but that doesn't mean they'll watch it. Make it anyway, just for fun.
+47. For anime's sake, have fun with it. Otherwise, what's the point? 
+48. It's true. Some of us really are 30+ year old men behind these hot models.
+49. Never listen to random 30+ year old men who become VTubers and go around making up "Rules of VTubing."
+50. You are more than your content, your model, the size of your audience, or the money you make.
 
 ---
 
